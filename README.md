@@ -30,7 +30,8 @@
 
 ## 📸 Скриншоты
 
-(сюда потом добавишь скрины приложения)
+<img width="1600" height="889" alt="start" src="https://github.com/user-attachments/assets/6836acba-c471-4b1e-9734-f75e1d18b107" />
+
 
 ---
 
