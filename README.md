@@ -30,7 +30,13 @@
 
 ## 📸 Скриншоты
 
-<img width="1600" height="889" alt="start" src="https://github.com/user-attachments/assets/6836acba-c471-4b1e-9734-f75e1d18b107" />
+
+<img width="1768" height="998" alt="image" src="https://github.com/user-attachments/assets/2fdeb5dd-f2db-4042-81fa-bbb800ddf380" />
+<img width="1769" height="965" alt="image" src="https://github.com/user-attachments/assets/7d9204c2-ca04-4ea0-a35f-8f63ad8282ca" />
+<img width="1770" height="993" alt="image" src="https://github.com/user-attachments/assets/34eae266-295e-452b-b0b0-47ef3daa0d49" />
+
+
+
 
 
 ---
